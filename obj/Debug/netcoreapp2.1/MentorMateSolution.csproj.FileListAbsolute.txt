@@ -1,0 +1,10 @@
+/Users/kirilsimeonov/Projects/MentorMateSolution/MentorMateSolution/bin/Debug/netcoreapp2.1/MentorMateSolution.deps.json
+/Users/kirilsimeonov/Projects/MentorMateSolution/MentorMateSolution/bin/Debug/netcoreapp2.1/MentorMateSolution.runtimeconfig.json
+/Users/kirilsimeonov/Projects/MentorMateSolution/MentorMateSolution/bin/Debug/netcoreapp2.1/MentorMateSolution.runtimeconfig.dev.json
+/Users/kirilsimeonov/Projects/MentorMateSolution/MentorMateSolution/bin/Debug/netcoreapp2.1/MentorMateSolution.dll
+/Users/kirilsimeonov/Projects/MentorMateSolution/MentorMateSolution/bin/Debug/netcoreapp2.1/MentorMateSolution.pdb
+/Users/kirilsimeonov/Projects/MentorMateSolution/MentorMateSolution/obj/Debug/netcoreapp2.1/MentorMateSolution.csproj.CoreCompileInputs.cache
+/Users/kirilsimeonov/Projects/MentorMateSolution/MentorMateSolution/obj/Debug/netcoreapp2.1/MentorMateSolution.AssemblyInfoInputs.cache
+/Users/kirilsimeonov/Projects/MentorMateSolution/MentorMateSolution/obj/Debug/netcoreapp2.1/MentorMateSolution.AssemblyInfo.cs
+/Users/kirilsimeonov/Projects/MentorMateSolution/MentorMateSolution/obj/Debug/netcoreapp2.1/MentorMateSolution.dll
+/Users/kirilsimeonov/Projects/MentorMateSolution/MentorMateSolution/obj/Debug/netcoreapp2.1/MentorMateSolution.pdb
